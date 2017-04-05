@@ -1,0 +1,34 @@
+MEETING 1 - 4/6/17
+
+Start time: 1:30pm
+End time:
+
+Members Present:
+
+	-Sydney Flak
+
+Main Goals:
+
+1. Define minimum project
+2. Decide on frameworks/dependencies
+3. SCRUM
+
+Meeting outline:
+
+-Get familiar with everyone's skill level
+
+-Connect to GitHub Repo
+
+-Descibe original idea/ concept
+
+-Talk about "Nice to have" features/ ideal final product
+
+-What would a "minimum" project be
+
+-Research frameworks/ api's
+
+-Set up SCRUM (if we can)
+
+
+
+
