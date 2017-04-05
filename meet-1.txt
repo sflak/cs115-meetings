@@ -15,7 +15,7 @@ Main Goals:
 
 Meeting outline:
 
--Get familiar with everyone's skill level
+-Get familiar with everyone's skills
 
 -Connect to GitHub Repo
 
