@@ -47,6 +47,8 @@ Meeting outline:
 	-Main list
 		-add to-do
 		-drag to calendar 
+			Drag and drop angularJS code:
+			*** http://codef0rmer.github.io/angular-dragdrop/#!/ ***
 
 	SPRINT 2
 	-Calendar schedule  
