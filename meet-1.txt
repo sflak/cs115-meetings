@@ -1,11 +1,15 @@
 MEETING 1 - 4/6/17
 
 Start time: 1:30pm
-End time:
+End time: 1:25pm
 
 Members Present:
 
 	-Sydney Flak
+	-Ryan Ho
+	-Anthony Nyguen
+	-David Ip
+	-Michael Wong
 
 Main Goals:
 
@@ -16,19 +20,69 @@ Main Goals:
 Meeting outline:
 
 -Get familiar with everyone's skills (Git/GitHub?)
+	All good!
+	Michael - extra review? 
 
 -Connect to GitHub Repo
+	DO IT! :)
+
+	git clone https://github.com/sflak/student-organizer.git
+
+	Meeting summary repo:
+	(Only if you want)
+
+	git clone https://github.com/sflak/cs115-meetings.git
 
 -Descibe original idea/ concept
+	To-do list where you can assign to-do items to different days and times. 
 
 -Talk about "Nice to have" features/ ideal final product
+	-Color coding to-dos (classes, life)
+	-pin repeat items to list
+	-multi-part to-dos
 
 -What would a "minimum" project be
 
+	SPRINT 1
+	-Main list
+		-add to-do
+		-drag to calendar 
+
+	SPRINT 2
+	-Calendar schedule  
+
+	SPRINT 3
+	-Login
+
 -Research frameworks/ api's
+	-AngularJS
+	-React
 
--Set up SCRUM (if we can)
+
+Feature assignments: (Subject to change!)
+
+-Anthony
+	-priority list logic
+
+-Sydney 
+	-UI
+	-react
+
+-Michael
+	-Login 
+
+-David/Ryan
+	-calendar
 
 
+Meeting times:
+
+	Tu/Thurs: 1:30 - 2:00
+	3rd meeting: TBD w/ TA
+
+Meeting locations:
+	
+	Tu - Porter, Baskin, I Lounge (decide ahead of time)
+	Thur - McHenry (Sydney will reserve rooms)
 
 
