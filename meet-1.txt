@@ -15,7 +15,6 @@ Main Goals:
 
 1. Define minimum project
 2. Decide on frameworks/dependencies
-3. SCRUM
 
 Meeting outline:
 
@@ -40,6 +39,7 @@ Meeting outline:
 	-Color coding to-dos (classes, life)
 	-pin repeat items to list
 	-multi-part to-dos
+	-Progress Bar
 
 -What would a "minimum" project be
 
