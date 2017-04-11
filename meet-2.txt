@@ -4,6 +4,11 @@ Start time: 1:30pm
 End time:
 
 Members Present:
+	-Sydney
+	-Ryan
+	-Anthony
+	-Michael
+	-David 
 
 Main Goals:
 
@@ -13,21 +18,48 @@ Main Goals:
 Meeting outline:
 	
 	- Set up Angular project on GitHub / get everyone set up locally
-
+		- Done and Done!
+		- Work should be split up by angular components
 
 	- Determine roles (PO/Scrum master/team...)
-
+		- Sydney is PO 
+		- Scrum master rotates
 
 	- Discuss paper prototype
-
+		- Sydney will send pics
 
 	- Start creating User Stories
-
+		- made lots of index cards!
+		- organize on Trello -> Ryan will set up and share on FB
 
 	- Planning poker
-
+		- We did it!
+		- Everyone agrees we should do it for next sprint as well
 
 	-Get presentation started
+		- everyone Should add a little!
+		- Sydney will make graphics to add to the slide
 	
 
 	- Talk about next meeting
+		- Work day!
+		- Get database set up ->Ryan will lead
+			- Firebase
+
+
+For next time:
+	Everyone should get more familiar with Angular
+		- Components
+		- databinding
+		- Follow a to-do tutorial!
+
+	Connect on Trello
+		- Ryan sent link on FB
+
+	Work on release plan
+		- Michael started it
+		- Shared on Google Drive
+
+
+
+
