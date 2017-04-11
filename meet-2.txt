@@ -7,4 +7,27 @@ Members Present:
 
 Main Goals:
 
+	- Get project set up
+	- Start Scrum
+
 Meeting outline:
+	
+	- Set up Angular project on GitHub / get everyone set up locally
+
+
+	- Determine roles (PO/Scrum master/team...)
+
+
+	- Discuss paper prototype
+
+
+	- Start creating User Stories
+
+
+	- Planning poker
+
+
+	-Get presentation started
+	
+
+	- Talk about next meeting
