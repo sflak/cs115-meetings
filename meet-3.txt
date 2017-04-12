@@ -1,0 +1,26 @@
+MEETING 2 - 4/13/17
+
+Start time: 1:30pm
+End time:
+
+Members Present:
+	-Sydney
+	-Ryan
+	-Anthony
+	-Michael
+	-David 
+
+Main Goals:
+	- Finalize Release Plan & Presentation
+	- Scrum Planning
+
+Meeting outline:
+	- Prioritize user stories / update release plan
+
+	- Do Planning Poker for the rest of the user stories
+
+	- Finalize User stories in Sprints
+
+	- Itemize tasks in user stories for first sprint
+
+	- BEGIN!
