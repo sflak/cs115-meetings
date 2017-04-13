@@ -4,11 +4,7 @@ Start time: 1:30pm
 End time:
 
 Members Present:
-	-Sydney
-	-Ryan
-	-Anthony
-	-Michael
-	-David 
+	
 
 Main Goals:
 	- Finalize Release Plan & Presentation
@@ -19,8 +15,10 @@ Meeting outline:
 
 	- Do Planning Poker for the rest of the user stories
 
-	- Finalize User stories in Sprints
+	- MoSCoW / Finalize User stories in Sprints
 
 	- Itemize tasks in user stories for first sprint
+
+	- Decide on online SCRUM board or Physical
 
 	- BEGIN!
