@@ -1,9 +1,14 @@
 MEETING 3 - 4/13/17
 
 Start time: 1:30pm
-End time:
+End time: 3:00
 
 Members Present:
+	- Ryan Ho
+	- Anthony Nyguen
+	- Sydney Flak
+	- David Ip
+	- Michael Wong
 	
 
 Main Goals:
@@ -12,13 +17,22 @@ Main Goals:
 
 Meeting outline:
 	- Prioritize user stories / update release plan
+		- we used MoSCow to find out what is important for us to build
 
 	- Do Planning Poker for the rest of the user stories
+		- All the user stories now have story points!
+			- Michael has updated the release plan with the new story points. Thank you!
 
 	- MoSCoW / Finalize User stories in Sprints
+		- Once we used MoSCow it was clear which user stories would be completed in which sprints
+			- Sprints 2 & 3 now have user stories assigned to them
+				- Michael has updated the Release plan. Thank you!
 
 	- Itemize tasks in user stories for first sprint
+		- We did not get to this! 
+		- We will use trello to do this, so everyone should contribute over the next couple days
 
 	- Decide on online SCRUM board or Physical
+		- We will use Trello as our online SCRUM board, so everyone, make sure you're connected!
 
 	- BEGIN!
