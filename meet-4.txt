@@ -1,22 +1,37 @@
 MEETING 4 - 4/18/17
 
 Start time: 1:30pm
-End time: 
+End time: 3:30pm
 
 Members Present:
-	
+	-Sydney Flak
+	-Michael Wong
+	-Ryan Ho
+	-Anthony Nyguen
+	-David Ip
 	
 
 Main Goals:
 	- Design the website architecture
+		- The initial documentation has been added to the git repository
 
 Meeting outline:
 	- Stand-up
+		- We had our first stand-up meeting. As first Scrum Master, Ryan introduced, and led the meeting. 
 
 	- Merge Michael's calendar with master
+		- We merged it, however there were problems with the architecure once it was moved, so we cleaned up the master branch, and now its been reverted to its original state
+		- We changed the design to focus more on the "Buckets", so now the calendar will be used to label the buckets with dates. 
 
 	- Talk about how to implement each component
+		- We created a preliminare architecture, and Sydney has created a documentation file that is now in the project repo
+		- anyone who works on the component should refer to this file, and update as needed. 
 
 	- Flesh out tasks on SCRUM board
+		- No tasks were added, but Michael is now connected to it.
 
 	- Take tasks
+		- Anthony and Ryan will work on the To-Do items together
+		- David is working on the drag and drop functionality
+		- Michael is researching the best way to create the dates
+		- Sydney is working on the basic HTML code for each component
