@@ -1,0 +1,22 @@
+MEETING 4 - 4/18/17
+
+Start time: 1:30pm
+End time: 
+
+Members Present:
+	
+	
+
+Main Goals:
+	- Design the website architecture
+
+Meeting outline:
+	- Stand-up
+
+	- Merge Michael's calendar with master
+
+	- Talk about how to implement each component
+
+	- Flesh out tasks on SCRUM board
+
+	- Take tasks
