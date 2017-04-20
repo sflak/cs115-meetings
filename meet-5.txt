@@ -1,0 +1,21 @@
+MEETING 5 - 4/20/17
+
+Start time: 1:30pm
+End time: 2:30pm
+
+Members Present:
+	- everyone
+	
+Main Goals:
+	- Turn user stories into tasks... properly!
+
+Meeting outline:
+	- Stand-up
+		- Staying on the same page, git, and learning angular came up as issues
+
+	- turn user stories into tasks
+		-the trello board is now up to date with the new tasks
+
+	- estimate ideal hours per tasks  
+		- quick estimate was made based off the story points given to the asccociated user story
+		
