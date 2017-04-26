@@ -1,16 +1,37 @@
 MEET 6 - 4/25/17
 
 Members Present
+	-Sydney Flak
+	-Ryan Ho
+	-Michael Wong
+	-Anthony Nguyen
 
+Start-time: 1:40pm
+End Time: 
 
 Main Goals
-
+	Mege our work!
 
 Outline
 	- Stand-up meeting
+		-David was not present, but he would have said;
+			-Worked in Drag and drop feature
+			-finishing drag and drop feature
+			-Having time/finding angular 4 solutions. (most are in angular 2)
 
 	- Start burnup chart
-		-Ryan?
+		-Ryan will start one in excel and post to repo
+
+	-Merged Log-in into basicHTML branch!
+
+	-Michael got excited
+
+
+----> NEW SCHEDULE STARTING NOW <------
+
+	Tu: 1:30-3:30 @ McHenry Rm 0351
+	Th: 3:20-3:30 @ Oaks Rm 101 (w/ TA)
+	Fri: 4:30-6:00 @ S&E Rm 138
 
 
 
